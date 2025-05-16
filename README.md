@@ -72,9 +72,3 @@ This project helps you understand several key Git concepts:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-\`\`\`
-
-Finally, let's create a simple test script to verify the implementation:
