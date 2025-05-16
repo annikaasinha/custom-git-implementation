@@ -15,7 +15,7 @@ PyGit is a Python implementation of a Git-like version control system. It's desi
 \`\`\`bash
 # Clone the repository
 git clone https://github.com/annikaasinha/custom-git-implementation
-cd pygit
+
 
 # Install the package
 pip install -e .
