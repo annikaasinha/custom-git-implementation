@@ -1,6 +1,6 @@
 # PyGit: A Git-like Version Control System in Python
 
-PyGit is a Python implementation of a Git-like version control system. It's designed to help you understand how Git works internally by implementing the core functionality in a clean, well-documented Python codebase.
+PyGit is a Python implementation of a Git-like version control system.
 
 ## Features
 
